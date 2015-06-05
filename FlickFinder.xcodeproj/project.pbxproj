@@ -77,11 +77,8 @@
 		35DA6C521B22268B003D904F /* FlickFinder */ = {
 			isa = PBXGroup;
 			children = (
-				35DA6C551B22268B003D904F /* AppDelegate.swift */,
 				35DA6C571B22268B003D904F /* ViewController.swift */,
 				35DA6C591B22268B003D904F /* Main.storyboard */,
-				35DA6C5C1B22268B003D904F /* Images.xcassets */,
-				35DA6C5E1B22268B003D904F /* LaunchScreen.xib */,
 				35DA6C531B22268B003D904F /* Supporting Files */,
 			);
 			path = FlickFinder;
@@ -90,6 +87,9 @@
 		35DA6C531B22268B003D904F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				35DA6C5C1B22268B003D904F /* Images.xcassets */,
+				35DA6C5E1B22268B003D904F /* LaunchScreen.xib */,
+				35DA6C551B22268B003D904F /* AppDelegate.swift */,
 				35DA6C541B22268B003D904F /* Info.plist */,
 			);
 			name = "Supporting Files";
